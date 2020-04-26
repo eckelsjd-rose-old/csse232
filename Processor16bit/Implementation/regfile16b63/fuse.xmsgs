@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/regfile16b63/regfile16b64_tb_0.v" Line 46: Port <arg fmt="%s" index="1">ioIn</arg> is not connected to this instance
+</msg>
+
+</messages>
+

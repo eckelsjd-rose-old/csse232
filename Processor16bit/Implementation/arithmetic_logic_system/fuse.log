@@ -1,0 +1,22 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system_tb_isim_beh.exe -prj C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system_tb_beh.prj arithmetic_logic_system_tb work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/../mux_1_bit/mux_1_bit.v" into library work
+Analyzing Verilog file "C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/../alu_16_bit/alu_16_bit.v" into library work
+Analyzing Verilog file "C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system.v" into library work
+Analyzing Verilog file "C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module alu_16_bit
+Compiling module mux_1_bit
+Compiling module arithmetic_logic_system
+Compiling module arithmetic_logic_system_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 5 Verilog Units
+Built simulation executable C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system_tb_isim_beh.exe
+Fuse Memory Usage: 28348 KB
+Fuse CPU Usage: 421 ms

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/tuey/Desktop/CSSE232/project/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/f_register_backup_system/fbs_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="fbs_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/fbs_tb/dataOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataOut[255:0]</obj_property>
+      <obj_property name="ObjectShortName">dataOut[255:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fbs_tb/restoreOut" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">restoreOut</obj_property>
+      <obj_property name="ObjectShortName">restoreOut</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fbs_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fbs_tb/backup" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">backup</obj_property>
+      <obj_property name="ObjectShortName">backup</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fbs_tb/restore" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">restore</obj_property>
+      <obj_property name="ObjectShortName">restore</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fbs_tb/dataIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataIn[255:0]</obj_property>
+      <obj_property name="ObjectShortName">dataIn[255:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,9 @@
+ISim log file
+Running: C:\Users\eckelsjd\Documents\RHIT\sophomore\winter\CSSE232\3B-dripchar-eckelsjd-morganbm-tuey\Implementation\arithmetic_logic_system\arithmetic_logic_system_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/eckelsjd/Documents/RHIT/sophomore/winter/CSSE232/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/arithmetic_logic_system/arithmetic_logic_system_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+Time resolution is 1 fs
+# onerror resume
+# wave add /
+No active Database
+# run 20000 ns
+Unable to execute live simulation command.

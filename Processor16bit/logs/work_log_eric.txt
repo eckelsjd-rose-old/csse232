@@ -1,0 +1,73 @@
+Eric Tu
+CSSE232 - Activity Journal
+
+Monday, January 7, 2019 [20 min]: 
+Discussed implementation strategy for the BAEJ Assembly Language.
+
+Tuesday, January 8, 2019 [50 min (1), 200 min (2)]: 
+Implementing modulus using BAEJ and helped with the summation function. 
+When challenges arose, I discussed certain implementations that were needed to satisfy
+the requirements for the functions.
+Began work on implementing Euclid's algorithm in our language.
+
+Wednesday, January 9, 2019 [120 min]: 
+Finishing translation of relPrime into BAEJ and machine language. Reformatting document.
+
+01/14/2019 - 5:10 pm [60 min]
+Helped write the skeleton of the RTL table.
+
+01/15/2019 - 5:30 pm [90 min]
+ 
+Helped finish the RTL write-up for all instructions. Reviewed the instructions. 
+
+01/16/2019 - 1:30pm [120 min]
+Wrote out the hardware component spec for the ALU. Reformated and reviewed the document.
+
+01/20/2019 - 2:30pm [150 min]
+Helped draw up a rough draft of datapath via RTL.
+Discussed implementation method of backing of registers.
+
+01/21/2019 - 5:10pm [120 min]: 
+Wrote up a rough draft of component unit testing methods.
+
+01/22/2019 - 7:00 pm [270 min]:
+Drew up and named subsystems for integration testing. Peer reviewed.
+Rewrote methods of testing the RTL.
+
+**Milestone 4**
+01/27/2019 - 6:00 pm [180 min]:
+Drafted the finite state machine for the datapath control signals. Described different
+testing methods for the finite state machine with Alex.
+
+01/28/2019 - 6:00 pm [240 min]:
+Implemented the memory unit. Memory unit test still has bugs.
+
+01/30/2019 - 3:00 pm [300 min]:
+Finished implementing memory unit, along with its unit tests.
+
+**Milestone 5**
+
+02/03/2019 - 1:00 pm [90 min]:
+Discussed the plans for the rest of the week. Communicated an issue about ra being lost
+upon nested function calls.
+
+02/04/2019 - 8:00 pm [120 min]:
+Worked on integrating and testing the F Register Backup System. Discovered that there
+were errors with the testbench and not the module itself.
+
+02/05/2019 - 9:00 pm [120 min]:
+Worked on integrating and testing the F Register Backup System. Bailey helped
+debug the test cases and found out that it was a timing issue. The FBS has been finalized.
+
+02/06/2019 - 11:00 pm [150 min]:
+Helped Josh debug the ALUS. Updated documentation and started the presentation powerpoint.
+
+02/07/2019 - 8:00 pm [60 min]:
+Helped Josh and Bailey debug the Register Management System.
+
+02/08/2019 - 7:00 pm [60 min]:
+Helped debug the datapath and discussed methods of I/O.
+
+02/10/2019 - 4:00 pm [240 min]:
+Updated the team journal and updated design document according to the current milestone
+with Josh.

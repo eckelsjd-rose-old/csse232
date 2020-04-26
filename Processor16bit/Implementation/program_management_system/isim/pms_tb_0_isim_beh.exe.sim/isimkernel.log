@@ -1,0 +1,10 @@
+Command line:
+   pms_tb_0_isim_beh.exe
+     -simmode  gui
+     -simrunnum  1
+     -socket  57181
+
+Tue Feb  5 20:37:25 2019
+
+
+ Elaboration Time: 0.04 sec

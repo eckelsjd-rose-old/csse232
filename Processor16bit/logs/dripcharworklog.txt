@@ -1,0 +1,50 @@
+Work log = Alex Dripchak
+
+Milestone 1 
+
+01/07/2019 - Met with team to start M1, Started team journal [50 mins]
+
+01/08/2019 - Met with team, discussed instructions, registers, wrote in team journal, helped develop small algorithms, exposed + fixed flaws in current model  [3.5 hours] 
+Listened to Josh complain about git [30 mins] 
+
+01/09/2019 - Met to finish up milestone 1, others finished relPrime and Euclids, I worked  on converting our code snippets to machine code. [2 hours]
+
+Milestone 2 
+
+1/15/2019 - Met with the lads to finish up the RTL. Helped develop new components for the data path. [1.5 hours]
+
+1/16/2019 -  Helped write up the components, specifically the comparator and the F cache. Designed a test to use in order to make sure the RTL is  correct, then exectured said test to look for errors. [2 hours]
+
+Milestone 3
+
+1/20/2019 - Helped make the datapath [2.5 hours]
+
+1/21/2019 - Started working on Verilog components, wrote test bench for comparator [2 hours]
+
+1/22/2019 - Went over document with team, developed components in Verilog, helped teammates learn Verilog and develop other components + tests [4.5 hours]
+ 
+
+Milestone 4
+
+1/26/2019 - Debugged Lab 6 and fixed slt [1.5 hours]
+
+1/27/2019 - Finished control state machine, wrote-up control unit test plan [3 hours]
+
+1/28/2019 - Finished making a register file and test cases [4 hours]
+
+1/30/2019 - Finished rewriting some tests for comparator, helped make the memory unit [2 hours]
+
+Milestone 5
+
+2/3/2019 - Discussed current issues ie $ra reg not getting backed up, had the regFile handle input/output [1 hour]
+
+2/4/2019 - Worked on the control unit w/ Josh. [1 hour] 
+
+2/5/2019 - Realize that we monumentally fricked up the control unit, phat rip in the chat. Josh rebuilt it correctly, I helped write the test case. Navigated as Bailey drove implementing the PMS [4 hours]
+
+2/6/2019 - Helped debug the ALU test case [1.5 hours]
+
+2/9/2019 - Provided moral support and insulted Josh for a little bit [~30 mins-ish]
+
+2/10/2019 - Helped debug recursive calls not return properly and helped write the recursive test case [2.5 hours]
+ 

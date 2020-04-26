@@ -1,0 +1,13 @@
+        cop .ip .a1
+        ldi .a0 1
+
+        cal sum
+
+        bop exit
+
+sum:    add .a1 .op
+        sub .a0 .a1
+        beq .a1 .z0 end
+        cal sum
+end:    ret
+exit:   bop exit

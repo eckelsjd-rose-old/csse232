@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0_isim_beh.exe" -prj "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0_beh.prj" "work.pms_tb_0" "work.glbl" 

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/morganbm/Desktop/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/datapath/datapath_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="datapath_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/datapath_tb/ioOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ioOut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ioOut[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/ioIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ioIn[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ioIn[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/prog_mgmt_sys/prog_count_sys/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[15:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/current" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">current[4:0]</obj_property>
+      <obj_property name="ObjectShortName">current[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op[3:0]</obj_property>
+      <obj_property name="ObjectShortName">op[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/Reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/PCsrc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PCsrc</obj_property>
+      <obj_property name="ObjectShortName">PCsrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/writePC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">writePC</obj_property>
+      <obj_property name="ObjectShortName">writePC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/backup" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">backup</obj_property>
+      <obj_property name="ObjectShortName">backup</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/restore" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">restore</obj_property>
+      <obj_property name="ObjectShortName">restore</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/MemR1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MemR1</obj_property>
+      <obj_property name="ObjectShortName">MemR1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/MemR2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MemR2</obj_property>
+      <obj_property name="ObjectShortName">MemR2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/RegR1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegR1</obj_property>
+      <obj_property name="ObjectShortName">RegR1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/RegR2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegR2</obj_property>
+      <obj_property name="ObjectShortName">RegR2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/RegW2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegW2</obj_property>
+      <obj_property name="ObjectShortName">RegW2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/IR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IR[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ImR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ImR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ImR[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ALUout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUout[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ALUop" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUop[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUop[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/Regsrc" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Regsrc[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Regsrc[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/data_mgmt_sys/reg_mgmt_sys/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[15:0]</obj_property>
+      <obj_property name="ObjectShortName">A[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/data_mgmt_sys/reg_mgmt_sys/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[15:0]</obj_property>
+      <obj_property name="ObjectShortName">B[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/data_mgmt_sys/reg_mgmt_sys/regsrc_mux_wire" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">regsrc_mux_wire[15:0]</obj_property>
+      <obj_property name="ObjectShortName">regsrc_mux_wire[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

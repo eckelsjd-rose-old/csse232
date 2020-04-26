@@ -1,0 +1,5 @@
+Command line:
+   arithmetic_logic_system_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50475

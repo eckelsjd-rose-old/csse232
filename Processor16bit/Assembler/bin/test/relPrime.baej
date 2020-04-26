@@ -1,0 +1,21 @@
+relP:   ldi .op 2
+        ldi .f1 1
+loop:   cop .ip .a0
+        cop .op .a1
+        cal gcd
+        beq .v0 .f1 end
+        add .f1 .op
+        bop loop
+end:    bop 32
+gcd:    bne .a0 .z0 cont
+        cop .a1 .v0
+        ret
+cont:   beq .a1 .a0 done
+        slt .a1 .a0
+        beq .cr .z0 else
+        sub .a1 .a0
+        bop cont
+else:   sub .a0 .a1
+        bop cont
+done:   cop .a0 .v0
+        ret

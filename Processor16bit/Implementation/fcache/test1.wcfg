@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/fcache/fcache_tb_0_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="fcache_tb_0" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/fcache_tb_0/rData" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">rData[255:0]</obj_property>
+      <obj_property name="ObjectShortName">rData[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fcache_tb_0/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fcache_tb_0/read" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">read</obj_property>
+      <obj_property name="ObjectShortName">read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fcache_tb_0/write" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">write</obj_property>
+      <obj_property name="ObjectShortName">write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fcache_tb_0/addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/fcache_tb_0/wData" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">wData[255:0]</obj_property>
+      <obj_property name="ObjectShortName">wData[255:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/morganbm/Desktop/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/datapath/datapath_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="datapath_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/datapath_tb/ioOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ioOut[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ioOut[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/op" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op[3:0]</obj_property>
+      <obj_property name="ObjectShortName">op[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/Reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Reset</obj_property>
+      <obj_property name="ObjectShortName">Reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/PCsrc" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PCsrc</obj_property>
+      <obj_property name="ObjectShortName">PCsrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/writePC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">writePC</obj_property>
+      <obj_property name="ObjectShortName">writePC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/writeRA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">writeRA</obj_property>
+      <obj_property name="ObjectShortName">writeRA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/ImRPC" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ImRPC</obj_property>
+      <obj_property name="ObjectShortName">ImRPC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/MemR1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MemR1</obj_property>
+      <obj_property name="ObjectShortName">MemR1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/MemR2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">MemR2</obj_property>
+      <obj_property name="ObjectShortName">MemR2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/RegW2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegW2</obj_property>
+      <obj_property name="ObjectShortName">RegW2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/RegR1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegR1</obj_property>
+      <obj_property name="ObjectShortName">RegR1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/RegR2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RegR2</obj_property>
+      <obj_property name="ObjectShortName">RegR2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/cmpeq" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cmpeq</obj_property>
+      <obj_property name="ObjectShortName">cmpeq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/cmpne" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">cmpne</obj_property>
+      <obj_property name="ObjectShortName">cmpne</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/backup" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">backup</obj_property>
+      <obj_property name="ObjectShortName">backup</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/restore" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">restore</obj_property>
+      <obj_property name="ObjectShortName">restore</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/prog_mgmt_sys/prog_count_sys/PC" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">PC[15:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/prog_mgmt_sys/prog_count_sys/RA" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">RA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">RA[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/IR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">IR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">IR[15:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/ImR" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ImR[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ImR[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/ctrl/current_state" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">current_state[4:0]</obj_property>
+      <obj_property name="ObjectShortName">current_state[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[15:0]</obj_property>
+      <obj_property name="ObjectShortName">B[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/data_mgmt_sys/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[15:0]</obj_property>
+      <obj_property name="ObjectShortName">A[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/ALUout" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ALUout[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUout[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/meth/a_ltb" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">a_ltb</obj_property>
+      <obj_property name="ObjectShortName">a_ltb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/datapath_tb/uut/inst_exec_sys/ioIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ioIn[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ioIn[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

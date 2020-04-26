@@ -1,0 +1,28 @@
+Command line:
+   regfile16b64_tb_0_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54295
+
+Thu Feb 07 17:30:18 2019
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 5986.12 Meg
+
+ Total Signals          : 29
+ Total Nets             : 627
+ Total Signal Drivers   : 34
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 39
+ Total Traceable Variables  : 34
+ Total Scalar Nets and Variables : 2121
+
+ Total Simulation Time: 0.34375 sec
+
+ Current Memory Usage: 5356.93 Meg
+
+Thu Feb 07 17:34:21 2019
+

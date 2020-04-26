@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/dripchar/Documents/Classes/CSSE232/regfile16b63/regfile16b64_tb_0_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="regfile16b64_tb_0" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/regfile16b64_tb_0/r1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">r1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/r2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">r2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/fcOut" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fcOut[255:0]</obj_property>
+      <obj_property name="ObjectShortName">fcOut[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/a1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/a2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">a2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">a2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/w1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">w1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">w1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/w2" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">w2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">w2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/fcIn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">fcIn[255:0]</obj_property>
+      <obj_property name="ObjectShortName">fcIn[255:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/w1Control" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">w1Control</obj_property>
+      <obj_property name="ObjectShortName">w1Control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/w2Control" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">w2Control</obj_property>
+      <obj_property name="ObjectShortName">w2Control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/r1Control" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r1Control</obj_property>
+      <obj_property name="ObjectShortName">r1Control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/r2Control" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">r2Control</obj_property>
+      <obj_property name="ObjectShortName">r2Control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/regfile16b64_tb_0/restore" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">restore</obj_property>
+      <obj_property name="ObjectShortName">restore</obj_property>
+   </wvobject>
+</wave_config>

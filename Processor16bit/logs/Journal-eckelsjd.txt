@@ -1,0 +1,55 @@
+Joshua Eckels 
+CSSE232 - Activity Journal
+
+Monday, January 7, 2019 [50 min]: Decisions on architecture type. Load-store with accumulators considered.
+			Listing necessary functions to implement.
+
+Tuesday, January 8, 2019 [50 min (1), 90 min (2)]: Assigning registers (Function regs, args, etc.). 2 instruction types (G and I).
+			Began work on implementing Euclid's algorithm in our language. Worked on desgin document.
+
+Wednesday, January 9, 2019 [120 min]: Finishing translation of relPrime into BAEJ and machine language. Reformatting document.
+
+Monday, January 14, 2019 [60 min]: Working on RTL for milestone 2. Dividing up instructions into multiple cycles. Excel document made for RTL.
+
+Tuesday, January 15, 2019 [90 min]: Finished RTL table, discussed shopping list and control signals
+
+Wednesday, January 16, 2019 [120 min]: Finished M2, discussion of each item in shopping list, method for verifying our RTL.
+					Wrote up description for all of the registers we used in our RTL.
+
+Sunday, January 20, 2019 [150 min]: Working on M3. Walked through RTL and drew datapath on whiteboard appropriately. Just a rough draft.
+                                    Needs a lot of work tomorrow. Still need to document all of our changes and new updates.
+
+Monday, January 21, 2019 [150 min]: Working on control signals, bit sizes, purposes, and functionality in our datapath. Writing this up
+                                    in the Design document as a table with complete list and description of all control signals.
+
+Tuesday, January 22, 2019 [250 min]: Fixing formatting of hardware components in design document. Learning verilog. Created verilog modules for
+                                     16-bit adder, 1-bit mux, and comparator (including test benches for each).
+
+Monday, January 28, 2019 [330 min]: Finished implementations and extensive test benches on 1-bit mux, 2-bit mux, adder, and ALU.
+				    ALU still has some bugs in it. Need to do regs as well.
+
+Wednesday, January 30, 2019 [60 min]: ALU bugs fixed. Decided we don't need actual reg hardware; they can just be instantiated whenever we need them.
+
+Sunday, February 3, 2019 [60 min]: Discussed rest of project. Divided up work. Began on control unit. Will begin working on ALU sub-system for integration plan.
+
+Monday, February 4, 2019 [90 min]: Worked with Alex. Finished control unit and test bench. Noticed a lot of inconsistencies in naming conventions.
+
+Tuesday, February 5, 2019 [50 min]: Realized issues with control unit. Needs to be implemented as finite state machine.
+
+Wednesday, February 6, 2019 [200 min]: Multicycle control unit finished. Test bench completed and extensive. Working on Arithmetic logic implementation system.
+
+Wednesday, February 6, 2019 [120 min]: Meeting number 2 today. Finished ALS integration system with extensive testing. Unclocked ALU (causing a cycle delay).
+
+Thursday, February 7, 2019 [180 min]: Massive bug fix in the register management system. Comparator was broken lol. Will finish tomorrow.
+
+Friday, February 8, 2019 [120 min]: Register management system is 100% functional with extensive testing. Had to fix bugs in the comparator and the reg file.
+
+Saturday, February 9, 2019 [60 min]: Testing relPrime on our processor. Lot of debugging. Realizing more issues with control unit.
+
+Sunday, February 10, 2019 [120 min]: Scanning through and updating design document with work over the past couple weeks. Control unit was updated and is working.
+				     Also was having more issues with RA that needed to be fixed with restoring and backing up. Updated FSM and RTL.
+
+Tuesday, February 12, 2019 [100 min]: Added code to have program pauses after finishing execution. Memory can now read programs from a .mem file. Synthesis works. 
+				      Working on benchmarking.
+
+Friday, February 15, 2019 [60 min]: Demo day. Working on a template for final report. Writing a few more quick test programs.

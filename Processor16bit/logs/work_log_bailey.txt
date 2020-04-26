@@ -1,0 +1,55 @@
+Work log = Bailey Morgan
+
+Milestone 1
+
+Monday, December 7, 2019 [60 min] - Met with team, discussed initial design decisions, load store vs stack and instruction design.
+
+Tuesday, December 8, 2019 [240 min] - Finalized instructions and register designs, translated programs to asm and to machine code.
+
+Wednesday, December 9, 2019 [120 min] - Finished asm and machine code changes. Final touches on language specification.
+
+Milestone 2
+
+Monday, January 14, 2019 [60 min] - Developed starting RTL for I types. Broke up instructions into cycles. Started RTL summary charts.
+
+Tuesday, January 15, 2019 [90 min] - Finished RTL summary charts. Listed the needed hardware and logic units.
+
+Wednesday, January 16, 2019 [120 min] -  Finished hardware descriptions and methods for testing RTL description. Completed M2.
+
+Milestone 3
+
+Sunday, January 20, 2019 [150 min] - Worked on M3, developed datapath using rtl. Traced many instructions to verify they worked.
+
+Monday, January 21, 2019 [180 min] - Created datapath svg and Makefile to convert both datapath diagram and design documents to pdfs. Touched up things in the data path.
+
+Tuesday, January 21, 2019 [340 min] - Finished up datapath design and pdf conversions. Updated components list and created unit test plans and Integration test plans. Worked on subcomponents with Eric.
+
+Milestone 4
+
+Sunday, January 27, 2019 [180 min] - Worked on finite state machine design. Updated rtl and component descriptions based off of feedback
+
+Monday, January 28, 2019 [300 min] - Finished Fcache and helped Alex with reg file, and Josh with alu. Made updates to the design doc.
+
+Wednesday, January 30, 2019 [330 min] - Finished all parts and went over tests with everyone to make sure they were extensive enough. Made sure they also matched what was described in the design doc. Created PCS integration and wrote testbench with Eric.
+
+Milestone 5
+
+Sunday, Febuary 3, 2019 [90 min] - Met to discuss what we need to do for the rest of the week. Discovered a few issues with our design and discussed fixes. Helped divide and assign integration work
+
+Tuesday, Febuary 5, 2019 [150 min] - Updated PCS, integrated MMS and PMS.
+
+Wednesday, Febuary 6, 2019 [60 min] - Wrote test bench and tested FBS.
+
+Thursday, Febuary 7, 2019 [180 min] - Helped with RMS integration. Helped debug control unit.
+
+Friday, Febuary 8, 2019 [180 min] - With josh integrated IES and wrote test benches. After, integrated IES, PMS, and control unit to form the data path.
+
+Sunday, Febuary 10, 2019 [240 min] - Wrote some programs to test and debug datapath with including relprime. More control issues found and fixed. Processor seems to work fine. Added a reset input to the datapath to reset to processor to pc = 0.
+
+Final Work
+
+Friday, Febuary 15, 2019 [60 min] - Demo given to Micah
+
+Saturday, Febuary 16, 2019 [180 min] - Made some optimizations and we worked on final presentation
+
+Sunday, Febuary 17, 2019 [20 min] - Recorded video demo

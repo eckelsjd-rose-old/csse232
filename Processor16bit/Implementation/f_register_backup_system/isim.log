@@ -1,0 +1,701 @@
+ISim log file
+Running: /home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/f_register_backup_system/fbs_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/f_register_backup_system/fbs_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 500ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+<<<<<<< HEAD
+TEST START ----------------
+Expected =                                                                             1 dataOut =                                                                             x FAILED 
+
+Expected =                                                                             2 dataOut =                                                                             2 PASSED 
+
+Expected =                                                                             3 dataOut =                                                                             3 PASSED 
+
+Expected =                                                                             4 dataOut =                                                                             4 PASSED 
+
+Expected =                                                                             5 dataOut =                                                                             5 PASSED 
+
+Expected =                                                                             6 dataOut =                                                                             6 PASSED 
+
+Expected =                                                                             7 dataOut =                                                                             7 PASSED 
+
+Expected =                                                                             8 dataOut =                                                                             8 PASSED 
+
+Expected =                                                                             9 dataOut =                                                                             9 PASSED 
+
+Expected =                                                                            10 dataOut =                                                                            10 PASSED 
+
+Expected =                                                                            11 dataOut =                                                                            11 PASSED 
+
+Expected =                                                                            12 dataOut =                                                                            12 PASSED 
+
+Expected =                                                                            13 dataOut =                                                                            13 PASSED 
+
+Expected =                                                                            14 dataOut =                                                                            14 PASSED 
+
+Expected =                                                                            15 dataOut =                                                                            15 PASSED 
+=======
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             0 PASSED 
+
+dataIn =                                                                             1 dataOut =                                                                             1 PASSED 
+
+dataIn =                                                                             2 dataOut =                                                                             2 PASSED 
+
+dataIn =                                                                             3 dataOut =                                                                             3 PASSED 
+
+dataIn =                                                                             4 dataOut =                                                                             4 PASSED 
+
+dataIn =                                                                             5 dataOut =                                                                             5 PASSED 
+
+dataIn =                                                                             6 dataOut =                                                                             6 PASSED 
+
+dataIn =                                                                             7 dataOut =                                                                             7 PASSED 
+
+dataIn =                                                                             8 dataOut =                                                                             8 PASSED 
+
+dataIn =                                                                             9 dataOut =                                                                             9 PASSED 
+
+dataIn =                                                                            10 dataOut =                                                                            10 PASSED 
+
+dataIn =                                                                            11 dataOut =                                                                            11 PASSED 
+
+dataIn =                                                                            12 dataOut =                                                                            12 PASSED 
+
+dataIn =                                                                            13 dataOut =                                                                            13 PASSED 
+
+dataIn =                                                                            14 dataOut =                                                                            14 PASSED 
+
+dataIn =                                                                            15 dataOut =                                                                            15 PASSED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             0 PASSED 
+
+dataIn =                                                                             1 dataOut =                                                                             1 PASSED 
+
+dataIn =                                                                             2 dataOut =                                                                             2 PASSED 
+
+dataIn =                                                                             3 dataOut =                                                                             3 PASSED 
+
+dataIn =                                                                             4 dataOut =                                                                             4 PASSED 
+
+dataIn =                                                                             5 dataOut =                                                                             5 PASSED 
+
+dataIn =                                                                             6 dataOut =                                                                             6 PASSED 
+
+dataIn =                                                                             7 dataOut =                                                                             7 PASSED 
+
+dataIn =                                                                             8 dataOut =                                                                             8 PASSED 
+
+dataIn =                                                                             9 dataOut =                                                                             9 PASSED 
+
+dataIn =                                                                            10 dataOut =                                                                            10 PASSED 
+
+dataIn =                                                                            11 dataOut =                                                                            11 PASSED 
+
+dataIn =                                                                            12 dataOut =                                                                            12 PASSED 
+
+dataIn =                                                                            13 dataOut =                                                                            13 PASSED 
+
+dataIn =                                                                            14 dataOut =                                                                            14 PASSED 
+
+dataIn =                                                                            15 dataOut =                                                                            15 PASSED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             0 PASSED 
+
+dataIn =                                                                             1 dataOut =                                                                             1 PASSED 
+
+dataIn =                                                                             2 dataOut =                                                                             2 PASSED 
+
+dataIn =                                                                             3 dataOut =                                                                             3 PASSED 
+
+dataIn =                                                                             4 dataOut =                                                                             4 PASSED 
+
+dataIn =                                                                             5 dataOut =                                                                             5 PASSED 
+
+dataIn =                                                                             6 dataOut =                                                                             6 PASSED 
+
+dataIn =                                                                             7 dataOut =                                                                             7 PASSED 
+
+dataIn =                                                                             8 dataOut =                                                                             8 PASSED 
+
+dataIn =                                                                             9 dataOut =                                                                             9 PASSED 
+
+dataIn =                                                                            10 dataOut =                                                                            10 PASSED 
+
+dataIn =                                                                            11 dataOut =                                                                            11 PASSED 
+
+dataIn =                                                                            12 dataOut =                                                                            12 PASSED 
+
+dataIn =                                                                            13 dataOut =                                                                            13 PASSED 
+
+dataIn =                                                                            14 dataOut =                                                                            14 PASSED 
+
+dataIn =                                                                            15 dataOut =                                                                            15 PASSED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             0 PASSED 
+
+dataIn =                                                                             1 dataOut =                                                                             1 PASSED 
+
+dataIn =                                                                             2 dataOut =                                                                             2 PASSED 
+
+dataIn =                                                                             3 dataOut =                                                                             3 PASSED 
+
+dataIn =                                                                             4 dataOut =                                                                             4 PASSED 
+
+dataIn =                                                                             5 dataOut =                                                                             5 PASSED 
+
+dataIn =                                                                             6 dataOut =                                                                             6 PASSED 
+
+dataIn =                                                                             7 dataOut =                                                                             7 PASSED 
+
+dataIn =                                                                             8 dataOut =                                                                             8 PASSED 
+
+dataIn =                                                                             9 dataOut =                                                                             9 PASSED 
+
+dataIn =                                                                            10 dataOut =                                                                            10 PASSED 
+
+dataIn =                                                                            11 dataOut =                                                                            11 PASSED 
+
+dataIn =                                                                            12 dataOut =                                                                            12 PASSED 
+
+dataIn =                                                                            13 dataOut =                                                                            13 PASSED 
+
+dataIn =                                                                            14 dataOut =                                                                            14 PASSED 
+
+dataIn =                                                                            15 dataOut =                                                                            15 PASSED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             1 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             2 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             3 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             4 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             5 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             6 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             7 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             8 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                             9 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            10 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            11 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            12 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            13 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            14 dataOut =                                                                             x FAILED 
+
+dataIn =                                                                            15 dataOut =                                                                             x FAILED 
+
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+INFO:Security:50 - The XILINXD_LICENSE_FILE environment variable is set to '2100@ise.csse.rose-hulman.edu'.
+INFO:Security:53 - The LM_LICENSE_FILE environment variable is not set.
+WARNING:Security:43 - No license file was found in the standard Xilinx license directory.
+WARNING:Security:44 - Since no license file was found,
+       please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses")
+       to assist in obtaining a license.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+WARNING:  For instance uut/IorD/, width 16 of formal port A is not equal to width 32 of actual constant.
+WARNING:  For instance uut/IorD/, width 16 of formal port B is not equal to width 32 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+dataIn =                                                                             0 dataOut =                                                                             0 PASSED 
+
+dataIn =                                                                             1 dataOut =                                                                             1 PASSED 
+
+dataIn =                                                                             2 dataOut =                                                                             2 PASSED 
+
+dataIn =                                                                             3 dataOut =                                                                             3 PASSED 
+
+dataIn =                                                                             4 dataOut =                                                                             4 PASSED 
+
+dataIn =                                                                             5 dataOut =                                                                             5 PASSED 
+
+dataIn =                                                                             6 dataOut =                                                                             6 PASSED 
+
+dataIn =                                                                             7 dataOut =                                                                             7 PASSED 
+
+dataIn =                                                                             8 dataOut =                                                                             8 PASSED 
+
+dataIn =                                                                             9 dataOut =                                                                             9 PASSED 
+
+dataIn =                                                                            10 dataOut =                                                                            10 PASSED 
+
+dataIn =                                                                            11 dataOut =                                                                            11 PASSED 
+
+dataIn =                                                                            12 dataOut =                                                                            12 PASSED 
+
+dataIn =                                                                            13 dataOut =                                                                            13 PASSED 
+
+dataIn =                                                                            14 dataOut =                                                                            14 PASSED 
+
+dataIn =                                                                            15 dataOut =                                                                            15 PASSED 
+>>>>>>> tmp
+

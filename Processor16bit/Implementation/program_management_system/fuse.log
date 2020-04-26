@@ -1,0 +1,33 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0_isim_beh.exe -prj /home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0_beh.prj work.pms_tb_0 work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../two_port_memory/mem_unit.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../mux_1_bit/mux_1_bit.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../adder_16_bit/adder_16_bit.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../program_counting_system/pcs.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../memory_management_system/mms.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms.v" into library work
+Analyzing Verilog file "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "/home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/../memory_management_system/mms.v" Line 29: Size mismatch in connection of port <W1>. Formal port size is 16-bit while actual signal size is 32-bit.
+Completed static elaboration
+Fuse Memory Usage: 82944 KB
+Fuse CPU Usage: 1180 ms
+Compiling module adder_16_bit
+Compiling module mux_1_bit
+Compiling module pcs
+Compiling module amemory16x1k
+Compiling module mms
+Compiling module pms
+Compiling module pms_tb_0
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable /home/bailey/comparch/3B-dripchar-eckelsjd-morganbm-tuey/Implementation/program_management_system/pms_tb_0_isim_beh.exe
+Fuse Memory Usage: 1167488 KB
+Fuse CPU Usage: 1200 ms
+GCC CPU Usage: 550 ms
